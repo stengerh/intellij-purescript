@@ -119,7 +119,7 @@ interface PSTokens {
         @kotlin.jvm.JvmField
         val STRING_ESCAPED = PSElementType("string escaping")
         @kotlin.jvm.JvmField
-        val STRING_GAP = PSElementType("string escaping")
+        val STRING_GAP = PSElementType("string gap")
         @kotlin.jvm.JvmField
         val STRING_ERROR = PSElementType("string escaping error")
         @kotlin.jvm.JvmField
